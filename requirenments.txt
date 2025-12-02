@@ -1,5 +1,5 @@
-streamlit
-scikit-learn
-pandas
-numpy
-joblib
+app.py
+prediction.py
+rf_model.sav
+requirements.txt
+model.py
